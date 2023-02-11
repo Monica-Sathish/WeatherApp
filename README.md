@@ -15,4 +15,5 @@ Weather Master App -> For admin section to add the Weather data.
 # Tech Stack
 
 Front End => VueJs, Jest(Test), JavaScript
+
 Back End => SpringBoot, Java
