@@ -1,0 +1,32 @@
+.not-found {
+    text-align: center;
+    margin-top: 50px;
+	display: inline-block;
+	margin-left: 35%;;
+	font-size: 40px;
+	color: aliceblue;
+}
+  
+  @media screen and (max-width: 1000px) {
+	.not-found {
+		text-align: center;
+		margin-top: 50px;
+		display: inline-block;
+		margin-left: 35%;
+		font-size: 30px;
+		color: aliceblue;
+	}
+	
+  }
+  
+  @media screen and (max-width: 500px) {
+	.not-found {
+		text-align: center;
+		margin-top: 50px;
+		display: inline-block;
+		margin-left: 30%;
+		font-size: 20px;
+		color: aliceblue;
+	}
+	
+  }

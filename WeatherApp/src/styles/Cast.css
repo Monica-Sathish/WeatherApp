@@ -1,0 +1,33 @@
+.hourcast{
+	transition: 0.3s;
+	width: 90%;
+	font-weight: 500;
+	color: aliceblue;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 55px;
+	display: inline-block;
+  }
+  .hour:hover {
+	  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+  .hour{
+	float: left;
+	padding: 10px;
+	margin-bottom: 30px;
+	margin-left: 30px;
+	background-color: #d5e5ff46;
+	color: aliceblue;
+	width:210px;
+	height:120px;
+	font-size: 20px;
+	border: 1px solid #d5e5ff9b;
+  }
+  .hour img {
+	  margin-top: -100px;
+	  margin-left: 160px;
+  }
+  .hour p {
+	  margin-top: -30px;
+	  margin-bottom: 30px;
+  }
